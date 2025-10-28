@@ -1,5 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!;你好！)
 
+"世路无穷，劳生有限，似此区区长鲜欢。"
+
+
  <div>
     <img src="https://komarev.com/ghpvc/?username=wangxz01&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
