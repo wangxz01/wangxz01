@@ -1,7 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!;你好！)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wangxz01&left_color=green&right_color=red)
-
  <div>
     <img src="https://komarev.com/ghpvc/?username=wangxz01&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
