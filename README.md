@@ -4,6 +4,6 @@
     <img src="https://komarev.com/ghpvc/?username=wangxz01&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangxz01&layout=compact&langs_count=8)   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangxz01&show_icons=true&theme=locale)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangxz01&layout=compact&langs_count=8)   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wangxz01&theme=react-dark)
