@@ -1,18 +1,11 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!;你好！)
 
-"世路无穷，劳生有限，似此区区长鲜欢。"
 
 # About Me ![Flat](https://komarev.com/ghpvc/?username=wangxz01&style=flat-square)  
 
-"一沧海，一蜉蝣，一生没时间懵懂。不放手，不罢休，像猛兽冲突牢笼。"  
+"世路无穷，劳生有限，似此区区长鲜欢。"
 
 ---
-
- <div>
-    <img src="https://komarev.com/ghpvc/?username=wangxz01&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-  </div>
-
-
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wangxz01&layout=compact&langs_count=8&card_width=340" />
