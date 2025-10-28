@@ -1,5 +1,11 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!;你好！)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wangxz01&left_color=green&right_color=red)
+
+ <div>
+    <img src="https://komarev.com/ghpvc/?username=wangxz01&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+  </div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangxz01)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangxz01)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wangxz01&theme=react-dark)
