@@ -13,4 +13,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wangxz01&rank_icon=percentile" />
 </a>
 
-![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wangxz01&theme=react)
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wangxz01&theme=react&days=25)
