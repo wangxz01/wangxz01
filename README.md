@@ -1,7 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!;你好！)
 
-遑遑三十载，书剑两无成。
-
 ---
 # 🌟 About Me ![Flat](https://komarev.com/ghpvc/?username=wangxz01&style=flat-square)  
 
